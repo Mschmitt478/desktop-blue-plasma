@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="136" viewBox="0 0 56 136">
+<defs>
+<linearGradient id="cobalt" x2="0%" y2="100%"><stop offset="0%" stop-color="#224e9e"/><stop offset="9%" stop-color="#639aeb"/><stop offset="22%" stop-color="#387cdc"/><stop offset="48%" stop-color="#2865be"/><stop offset="91%" stop-color="#2359a6"/><stop offset="100%" stop-color="#194584"/></linearGradient>
+<linearGradient id="slate" x2="0%" y2="100%"><stop offset="0%" stop-color="#4a668e"/><stop offset="9%" stop-color="#91acd0"/><stop offset="22%" stop-color="#718fb9"/><stop offset="48%" stop-color="#5878a5"/><stop offset="91%" stop-color="#516e98"/><stop offset="100%" stop-color="#3c567e"/></linearGradient>
+</defs>
+<rect id="decoration-center" x="4" y="29" width="48" height="4" fill="transparent"/>
+<rect id="decoration-top" x="4" y="0" width="48" height="29" fill="url(#cobalt)"/>
+<rect id="decoration-bottom" x="4" y="33" width="48" height="4" fill="#2a63af"/>
+<rect id="decoration-left" x="0" y="29" width="4" height="4" fill="#2a63af"/>
+<rect id="decoration-right" x="52" y="29" width="4" height="4" fill="#2a63af"/>
+<path id="decoration-topleft" d="M0 29V6Q0 2 4 0V29Z" fill="url(#cobalt)"/>
+<path id="decoration-topright" d="M52 0Q56 2 56 6V29H52Z" fill="url(#cobalt)"/>
+<rect id="decoration-bottomleft" x="0" y="33" width="4" height="4" fill="#2a63af"/>
+<rect id="decoration-bottomright" x="52" y="33" width="4" height="4" fill="#2a63af"/>
+<rect id="decoration-maximized-center" x="4" y="38" width="48" height="29" fill="url(#cobalt)"/>
+<rect id="decoration-inactive-center" x="4" y="97" width="48" height="4" fill="transparent"/>
+<rect id="decoration-inactive-top" x="4" y="68" width="48" height="29" fill="url(#slate)"/>
+<rect id="decoration-inactive-bottom" x="4" y="101" width="48" height="4" fill="#5b769d"/>
+<rect id="decoration-inactive-left" x="0" y="97" width="4" height="4" fill="#5b769d"/>
+<rect id="decoration-inactive-right" x="52" y="97" width="4" height="4" fill="#5b769d"/>
+<path id="decoration-inactive-topleft" d="M0 97V74Q0 70 4 68V97Z" fill="url(#slate)"/>
+<path id="decoration-inactive-topright" d="M52 68Q56 70 56 74V97H52Z" fill="url(#slate)"/>
+<rect id="decoration-inactive-bottomleft" x="0" y="101" width="4" height="4" fill="#5b769d"/>
+<rect id="decoration-inactive-bottomright" x="52" y="101" width="4" height="4" fill="#5b769d"/>
+<rect id="decoration-maximized-inactive-center" x="4" y="106" width="48" height="29" fill="url(#slate)"/>
+</svg>

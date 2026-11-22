@@ -1,0 +1,6 @@
+[Desktop Entry]
+EmptyIcon=xp-recycle-bin
+Icon=xp-recycle-bin-full
+Name=Trash
+Type=Link
+URL[$e]=trash:/

@@ -1,0 +1,9 @@
+{
+  "KPlugin": {
+    "Id": "desktop-blue",
+    "Name": "Desktop Blue",
+    "Description": "Cobalt Plasma workspace",
+    "Version": "1.4"
+  },
+  "X-Plasma-API": "5.0"
+}
